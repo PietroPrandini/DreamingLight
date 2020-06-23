@@ -143,7 +143,7 @@ void loop()
             start_light_ms = millis();
         }
       
-    } else if (button_state == NOT_PUSHED && button_last_state == NOT_PUSHED) {
+    } else {
   
         /*
          * The button is not pushed.
