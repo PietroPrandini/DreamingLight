@@ -25,7 +25,7 @@ const int BUTTON_PIN = 2;
 /**
  * @brief The number of the light pin.
  */
-const int LIGHT_PIN = 13;
+const int LIGHT_PIN = 3;
 
 /**
  * @brief Useful variable for understanding button pushed state.
@@ -146,7 +146,7 @@ void loop()
     } else {
   
         /*
-         * The button is not pushed.
+         * Basically the button is not pushed (or it remains pushed).
          * If the light is on, checks if the working time is expired,
          * if yes, turns off the light.
          */
