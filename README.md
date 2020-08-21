@@ -10,7 +10,7 @@ Don't try to reproduce this project if you don't know what you are doing.*
 
 ## Used technologies
 * *Arduino UNO* with a breadboard, a led and a button for tests;  
-* *Arduino micro* for the final implementation;  
+* *Arduino nano* for the final implementation;  
 * *5V Relay* controlled by the Arduino for switch on or off the high voltage;  
 * various cables and electrical things for the box and the button;  
 * a soldering iron.  
