@@ -15,6 +15,7 @@ Don't try to reproduce this project if you don't know what you are doing.*
 * various cables and electrical things for the box and the button;  
 * a soldering iron.  
 
+![breadboard_tests](img/IMG_20200624_094212962.jpg)
 ![internal_box_view_a](img/IMG_20200626_152212118.jpg)
 ![internal_box_view_b](img/IMG_20200626_152218856.jpg)  
 ![lights_building_a](img/IMG_20200626_161555318.jpg)
